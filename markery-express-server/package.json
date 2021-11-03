@@ -28,7 +28,7 @@
     "mongodb": "^3.5.2",
     "mongoose": "^5.8.11",
     "reflect-metadata": "^0.1.13",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
